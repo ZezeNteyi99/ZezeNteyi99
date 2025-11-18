@@ -2,7 +2,19 @@
 
 ###
 
-<h2 align="left">Work<br>🔭 I’m currently working on<br>AI-powered web tools ✨  Frontend interfaces using modern frameworks  Projects that combine AI + clean UI design + real functionality<br>project link<br>👯 I’m looking to collaborate on<br>AI projects  Educational or productivity web apps<br>project link<br>🤝 I’m looking for help with<br>project name<br>project link<br>🌱 I’m currently learning<br>AI courses on coursera, React<br>💬 Ask me about<br>NLP, Gnerative AI, AI tools<br>📫 How to reach me<br>zezenteyi99@gmail.com<br>👨‍💻 All of my projects are available at<br>https://github.com/ZezeNteyi99</h2>
+<h4 align="left">🔭 Currently working on: AI-powered web tools, Projects that combine AI + clean UI design + real functionality <br>💼 Aspiring: Workday Reporting/ Analytics<br> 🚀Passionate about: Building scalable user-friendly analytics solutions</h4>
+
+###
+
+<h4 align="left">🌱 Currently learning:<br>• 	AI courses on Coursera<br>• 	React</h4>
+
+###
+
+<h4 align="left">• 	👯 Looking to collaborate on:<br>• 	AI projects<br>• 	Educational or productivity web apps</h4>
+
+###
+
+<h4 align="left"></h4>
 
 ###
 
