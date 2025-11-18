@@ -62,38 +62,11 @@ interface CurrentGoals {
   learning: string[];
   challenge: string;
   communities: string[];
-}
-
-const myGoals: CurrentGoals = {
-  learning: ["React Advanced Patterns", "TypeScript Best Practices", "Microservices Architecture"],
-  challenge: "#100DaysOfCode - React & TypeScript",
-  communities: ["AfroPython", "Latinity", "EducaTRANSforma"]
 };
 ```
 
 ---
 
-## 🌟 Community Involvement
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.icons8.com/fluency/96/000000/diversity.png" width="50"/><br />
-      <b>AfroPython</b><br />
-      <sub>Co-organizer</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/fluency/96/000000/conference-speaker.png" width="50"/><br />
-      <b>Latinity</b><br />
-      <sub>Speaker</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/fluency/96/000000/training.png" width="50"/><br />
-      <b>EducaTRANSforma</b><br />
-      <sub>Mentor</sub>
-    </td>
-  </tr>
-</table>
 
 ---
 
