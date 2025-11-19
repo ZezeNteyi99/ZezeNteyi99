@@ -6,13 +6,14 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif">
  👨‍💻 About Me
 
+ 
+
 🔭 **Currently working on:**
 AI-powered web tools, Projects that combine AI + clean UI design + real functionality 
 
 💼 **Aspiring:** Workday Reporting/ Analytics
 
-🌱 **Currently learning:**
-   - AI courses on Coursera
+🌱 **Currently learning:** AI courses on Coursera
      
 
 👯 **Looking to collaborate on:**
@@ -55,12 +56,6 @@ const Khanyi = {
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZezeNteyi99&theme=tokyonight" alt="GitHub Streak" />
 </div>
-
----
-
-
----
-
 
 ---
 
