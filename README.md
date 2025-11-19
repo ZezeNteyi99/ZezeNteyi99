@@ -3,15 +3,17 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Software+Developer;AI+and+Workday+Enthusiast;Building+Amazing+Things!" alt="Typing SVG" />
 </div>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif">
+ 👨‍💻 About Me
 
-## 👨‍💻 About Me
+🔭 **Currently working on:**
+AI-powered web tools, Projects that combine AI + clean UI design + real functionality 
 
-🔭 **Currently working on:** AI-powered web tools, Projects that combine AI + clean UI design + real functionality 
 💼 **Aspiring:** Workday Reporting/ Analytics
 
 🌱 **Currently learning:**
    - AI courses on Coursera
-   - React
+     
 
 👯 **Looking to collaborate on:**
     -	AI projects
@@ -23,7 +25,7 @@
 const Khanyi = {
   pronouns: "she" | "her",
   code: ["Javascript", "Typescript", "HTML", "CSS", "Python", "Java"],
-  challenge: "I am doing the #100DaysOfCode challenge focused on react"
+  
 }
 ```
 
@@ -37,7 +39,7 @@ const Khanyi = {
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 </div>
 
 ---
@@ -45,8 +47,9 @@ const Khanyi = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZezeNteyi99&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZezeNteyi99&layout=compact&langs_count=8&theme=tokyonight"/>
+
 </div>
 
 <div align="center">
@@ -55,15 +58,6 @@ const Khanyi = {
 
 ---
 
-## 🎯 Current Focus
-
-```typescript
-interface CurrentGoals {
-  learning: string[];
-  challenge: string;
-  communities: string[];
-};
-```
 
 ---
 
@@ -87,13 +81,14 @@ interface CurrentGoals {
 </div>
 
 <div align="center">
+
   
-### 💬 *I love connecting with different people so if you want to say hi, I'll be happy to meet you more!* 😊
+###  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b> *I love connecting with different people so if you want to say hi, I'll be happy to meet you more!* 😊
 
 </div>
 
 ---
-
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
