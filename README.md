@@ -59,7 +59,7 @@ Web app helping leaners generate quizzes and study guides using AI. Built with m
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZezeNteyi99&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=ZezeNteyi99&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
 ---
