@@ -35,6 +35,8 @@ const Khanyi = {
 
 ---
   📂 **Projects** 📂
+
+  
 **-AI Educational Content Generator**
 
 Web app helping leaners generate quizzes and study guides using AI. Built with modern web technologies to streamline educational content creation.
