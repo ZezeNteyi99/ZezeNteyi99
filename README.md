@@ -6,14 +6,15 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif">
  👨‍💻 About Me
 
- 
+ I'm a woman in tech who loves bringing ideas to life. There's something special about having a thought like "what if my portfolio had a smooth day/night theme?" and then actually building it into existence. That's one of the most exciting part in tech.
+I believe the best projects are the ones that start with curiosity and end with something meaningful. Whether it's adding that perfect theme toggle or building an entire app from scratch, I'm all about turning "what if" into "check this out."🎨
 
 🔭 **Currently working on:**
 AI-powered web tools, Projects that combine AI + clean UI design + real functionality 
 
 💼 **Aspiring:** Workday Reporting/ Analytics
 
-🌱 **Currently learning:** AI courses on Coursera
+🌱 **Currently learning:** About workday Platform 
      
 
 👯 **Looking to collaborate on:**
