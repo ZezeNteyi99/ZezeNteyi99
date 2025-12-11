@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Software+Developer;AI+and+Workday+Enthusiast;Building+Amazing+Things!" alt="Typing SVG" />
 </div>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif">
- 👨‍💻 **About Me**
+ 👨‍💻  About Me
 
  I'm a woman in tech who loves bringing ideas to life. There's something special about having a thought like "what if my portfolio had a smooth day/night theme?" and then actually building it into existence. That's one of the most exciting part in tech.
 
