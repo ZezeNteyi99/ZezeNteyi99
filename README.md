@@ -42,6 +42,14 @@ const Khanyi = {
 Web app helping leaners generate quizzes and study guides using AI. Built with modern web technologies to streamline educational content creation.
 
 👉: [Visit My Repo](https://github.com/ZezeNteyi99/ai-edu-generator)
+
+**-AI Educational Content Generator**
+
+Web app helping leaners generate quizzes and study guides using AI. Built with modern web technologies to streamline educational content creation.
+
+👉: [Visit My Repo](https://github.com/ZezeNteyi99/ai-edu-generator)
+
+---
 ## 🚀 Tech Stack
 
 <div align="center">
